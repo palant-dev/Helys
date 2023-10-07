@@ -1,6 +1,6 @@
-<h3>"Your personal companion to track your vitamin D level by scheduling safe sun exposure."</h3>
-![Github asset 1](https://github.com/palant-dev/Helys/assets/113528707/855008ff-57dc-441b-82f9-0e106d388d8c)
+![topbannersocials](https://github.com/palant-dev/Helys/assets/113528707/795c98b2-d015-49ba-be5f-2b7f0f9f5b9f)
 
+<h3>"Your personal companion to track your vitamin D level by scheduling safe sun exposure."</h3>
 
 # Introduction
 Vitamin D is a truly unique vitamin because our skin has the remarkable ability to produce it naturally. This vitamin plays a vital role in various aspects of our health. Our bones rely on vitamin D to effectively absorb calcium, while our muscles need it to facilitate movement. Additionally, vitamin D supports our nerves in carrying messages between our brain and body, bolsters our immune system to combat infections, and aids in maintaining normal blood pressure for a healthy heart.
@@ -9,6 +9,7 @@ Vitamin D is a truly unique vitamin because our skin has the remarkable ability 
 Despite its significance, many people are facing a substantial health issue due to a lack of vitamin D. In Europe, it's astonishing that 4 out of every 10 individuals display insufficient levels of this crucial vitamin. Even more concerning is the fact that 1 out of every 10 individuals suffers from severe deficiency. This means that among us, there is at least one person grappling with this issue. Zooming out to a global scale, a staggering 1 billion people are currently grappling with the challenges posed by inadequate vitamin D levels. Such deficiencies can lead to an increased risk of developing osteoporosis, multiple sclerosis, depression, and heart disease.
 
 # Our solution
+![Github asset 1](https://github.com/palant-dev/Helys/assets/113528707/855008ff-57dc-441b-82f9-0e106d388d8c)
 The struggle to obtain sufficient vitamin D can be quite challenging. Although we can acquire a small portion from food, it only accounts for 10% of our intake. The most effective and simplest way to obtain vitamin D is through exposure to sunlight—the very source that sustains life itself. However, people often lack awareness about the amount of time needed to expose themselves to the sun to attain the required vitamin D levels. Furthermore, tracking vitamin D levels can be an arduous task.
 
 But fear not, as our solution, Helys, emerges to address this issue. Helys is your personal companion, dedicated to helping you increase your vitamin D levels by scheduling safe sun exposure. It achieves this by utilizing a scientific formula, developed by Holick, to calculate the precise duration required to reach your recommended daily level of vitamin D. With its minimalist and intuitive design, Helys simplifies your experience by providing a clear visualization of the amount of vitamin D you are obtaining during each session.
