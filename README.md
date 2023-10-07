@@ -1,5 +1,6 @@
-![topbannersocials](https://github.com/palant-dev/Helys/assets/113528707/795c98b2-d015-49ba-be5f-2b7f0f9f5b9f)
-
+<a href="https://apps.apple.com/it/app/helys/id6449147563">
+  <img src="https://github.com/palant-dev/Helys/assets/113528707/795c98b2-d015-49ba-be5f-2b7f0f9f5b9f">
+</a>
 <h3>"Your personal companion to track your vitamin D level by scheduling safe sun exposure."</h3>
 
 <a href="https://apps.apple.com/it/app/helys/id6449147563">Try it for free now!</a>
