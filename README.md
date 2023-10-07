@@ -2,6 +2,8 @@
 
 <h3>"Your personal companion to track your vitamin D level by scheduling safe sun exposure."</h3>
 
+<a href="https://apps.apple.com/it/app/helys/id6449147563">Try it for free now!</a>
+
 # Introduction
 Vitamin D is a truly unique vitamin because our skin has the remarkable ability to produce it naturally. This vitamin plays a vital role in various aspects of our health. Our bones rely on vitamin D to effectively absorb calcium, while our muscles need it to facilitate movement. Additionally, vitamin D supports our nerves in carrying messages between our brain and body, bolsters our immune system to combat infections, and aids in maintaining normal blood pressure for a healthy heart.
 
