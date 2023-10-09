@@ -1,3 +1,7 @@
+[![Swift Version](https://img.shields.io/badge/Swift-5-brightgreen.svg?style=for-the-badge)](https://swift.org)
+![Made for](https://img.shields.io/badge/Device-iPhone-darkblue.svg?style=for-the-badge)
+
+
 <a href="https://apps.apple.com/it/app/helys/id6449147563">
   <img src="https://github.com/palant-dev/Helys/assets/113528707/795c98b2-d015-49ba-be5f-2b7f0f9f5b9f">
 </a>
